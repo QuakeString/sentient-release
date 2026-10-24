@@ -16,7 +16,7 @@ carries:
 | `sentient-payload-linux-x86_64.tar` | SENTIENT for Linux x86_64 (native systemd installs) |
 
 SENTIENT Setup and the Platform Manager read
-`https://github.com/QuakeString/sentient-releases/releases/latest/download/manifest.json`,
+`https://github.com/QuakeString/sentient-release/releases/latest/download/manifest.json`,
 download what the computer needs and check every file against its SHA-256
 before using it. Docker installs use the `quakestring/sentient` image instead.
 
