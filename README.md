@@ -3,6 +3,18 @@
 Downloads of the SENTIENT IIoT platform for the **SENTIENT Platform Manager**
 (SENTIENT Setup). No source code lives here.
 
+<!-- downloads:start -->
+## Downloads
+
+| Product | Latest | What it is |
+|---|---|---|
+| SENTIENT | [SENTIENT 4.4.0.1](https://github.com/QuakeString/sentient-release/releases/tag/4.4.0.1) | The platform for Windows and Linux; installed and updated by the Platform Manager. Docker: `quakestring/sentient`. |
+| SENTIENT Gateway | [Sentient Gateway 4.16.1](https://github.com/QuakeString/sentient-release/releases/tag/gateway-4.16.1) | Connects field devices and PLCs to SENTIENT (Windows installer, Linux packages). |
+| SENTIENT mobile app | [SENTIENT-mobile-app 2.0.1 (build 17)](https://github.com/QuakeString/sentient-release/releases/tag/SENTIENT-mobile-app-2.0.1-17) | Android app for SENTIENT dashboards and alarms. |
+
+Every release page lists its files with their SHA-256.
+<!-- downloads:end -->
+
 Each release is tagged with the SENTIENT version (for example `4.3.0.48`) and
 carries:
 
