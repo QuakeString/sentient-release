@@ -9,7 +9,7 @@ Downloads of the SENTIENT IIoT platform for the **SENTIENT Platform Manager**
 | Product | Latest | What it is |
 |---|---|---|
 | SENTIENT | [SENTIENT 4.4.3.5](https://github.com/QuakeString/sentient-release/releases/tag/4.4.3.5) | The platform for Windows and Linux; installed and updated by the Platform Manager. Docker: `quakestring/sentient`. |
-| SENTIENT Platform Manager | [SENTIENT Platform Manager 0.9.12](https://github.com/QuakeString/sentient-release/releases/tag/spm-v0.9.12) | Installs, updates, backs up and manages SENTIENT (Windows installer; Linux .deb, .rpm, Arch, AppImage and Flatpak packages, and a plain binary). The Flatpak is for managing SENTIENT on other computers (remote management); installing or managing SENTIENT on this same computer needs the .deb, .rpm, AppImage or Arch package. |
+| SENTIENT Platform Manager | [SENTIENT Platform Manager 0.9.13](https://github.com/QuakeString/sentient-release/releases/tag/spm-v0.9.13) | Installs, updates, backs up and manages SENTIENT (Windows installer; Linux .deb, .rpm, Arch, AppImage and Flatpak packages, and a plain binary). The Flatpak is for managing SENTIENT on other computers (remote management); installing or managing SENTIENT on this same computer needs the .deb, .rpm, AppImage or Arch package. |
 | SENTIENT Gateway | [Sentient Gateway 4.18.4](https://github.com/QuakeString/sentient-release/releases/tag/gateway-4.18.4) | Connects field devices and PLCs to SENTIENT (Windows installer, Linux packages). |
 | SENTIENT mobile app | [SENTIENT mobile app 2.1.0-42](https://github.com/QuakeString/sentient-release/releases/tag/SENTIENT-mobile-app-2.1.0-42) | Android app for SENTIENT dashboards and alarms. |
 
